@@ -8,7 +8,7 @@
 - 👯 I'm looking to collaborate on Ionic, iOS, Angular projects
 - 🌱 I'm currently learning blockchain technology
 - 💬 I've 16+ years of IT experience as a developer and project manger
-- 🤔 I love to learn new things irrespective of the domain
+- 🤔 I love to learn new things irrespective of the domain.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pm-rakeshkumar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6560379) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vp_rakesh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/vlogboard) 
