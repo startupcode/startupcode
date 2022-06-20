@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**startupcode/startupcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**startupcode/startupcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫About Me :
 - 🔭 I'm currently working as a Project Manager
