@@ -7,7 +7,7 @@
 - 🔭 I'm currently working as a Project Manager
 - 👯 I'm looking to collaborate on Ionic, iOS, Angular projects
 - 🌱 I'm currently learning blockchain technology
-- 💬 I've 16+ years of IT experience as a developer and project manger
+- 💬 I've 18+ years of IT experience as a developer and project manger
 - 🤔 I love to learn new things irrespective of the domain.
 
 ## 🌐Socials
